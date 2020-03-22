@@ -1,4 +1,8 @@
 # Whiptail introduciton
+![License](https://img.shields.io/badge/licence-MIT-gren "MIT License") 
+![Version](https://img.shields.io/badge/version-1.0-blue "Code Version")
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20osx-important "Platform")
+![Language](https://img.shields.io/badge/language-bash-blueviolet "Language")
 
 It is a mini project made in bash and whiptail to experiment with interfaces in a shell environment.
 
